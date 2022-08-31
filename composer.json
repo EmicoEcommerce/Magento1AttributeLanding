@@ -1,14 +1,8 @@
 {
-  "name": "emico/magento1-attribute-landing",
+  "name": "tweakwise/magento1-attribute-landing",
   "type": "magento-module",
   "license": "OSL-3.0",
   "description": "Module to create landing pages with preselected filters, which can be configured in the Admin",
-  "authors": [
-    {
-      "name":"Emico",
-      "email":"info@emico.nl"
-    }
-  ],
   "extra": {
     "map": [
       ["app/etc/modules/Emico_AttributeLanding.xml", "app/etc/modules/Emico_AttributeLanding.xml"],
