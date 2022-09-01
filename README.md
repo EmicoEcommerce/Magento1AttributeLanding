@@ -1,7 +1,7 @@
 ## Installation
 Install package using composer
 ```sh
-composer require emico/magento1-attribute-landing
+composer require tweakwise/magento1-attribute-landing
 ```
 ## Configuration
 No specific configuration required
