@@ -13,11 +13,11 @@
     ]
   },
   "suggest": {
-    "emico/magento1-tweakwise": "Tweakwise navigator 2.0.0 or higher",
-    "emico/magento1-tweakwise-export": "Tweakwise navigator feed generator 3.0.0 or higher"
+    "tweakwise/magento1-tweakwise": "Tweakwise navigator 2.0.0 or higher",
+    "tweakwise/magento1-tweakwise-export": "Tweakwise navigator feed generator 3.0.0 or higher"
   },
   "conflict": {
-    "emico/magento1-tweakwise": "<2.0.0",
-    "emico/magento1-tweakwise-export": "<3.0.0"
+    "tweakwise/magento1-tweakwise": "<2.0.0",
+    "tweakwise/magento1-tweakwise-export": "<3.0.0"
   }
 }
